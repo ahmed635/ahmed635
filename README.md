@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Ahmed Khaled
 
-### 💻 Java & Flutter Full-Stack Developer | 🧠 Biomedical Engineer
+### ☕ Java Backend Engineer | 📱 Flutter Developer
 
-🔭 Currently working at **Namasoft** | 📱 Published apps on Play Store & App Store
+🏢 Building enterprise ERP platforms at **NamaSoft**  
+📍 Giza, Egypt · 📱 Published on Play Store & App Store
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.khaled.ali.970915/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.khaled.aa123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-khaled-7bb818182/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed635)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.khaled.ali.970915/)
 
 </div>
 
