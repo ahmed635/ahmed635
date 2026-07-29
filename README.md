@@ -105,6 +105,4 @@ Building the mobile-facing platform of a large-scale enterprise ERP (**Java 21, 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed635&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Ahmed's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed635&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=ahmed635&hide_border=true&theme=transparent" alt="GitHub streak" />
-
 </div>
